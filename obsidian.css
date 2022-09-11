@@ -323,7 +323,7 @@ body {
   --code-color: var(--code-color-l);
   --atom-gray-1: #383a42;
   --atom-gray-2: #383a42;
-  --atom-red: #e75545;
+  --atom-cyan: #00D6CB;
   --atom-green: #4ea24c;
   --atom-blue: #3d74f6;
   --atom-purple: #a625a4;
@@ -442,7 +442,7 @@ body {
   --code-color: var(--code-color-d);
   --atom-gray-1: #5c6370;
   --atom-gray-2: #abb2bf;
-  --atom-red: #e06c75;
+  --atom-cyan: #00D6CB;
   --atom-orange: #d19a66;
   --atom-green: #98c379;
   --atom-aqua: #56b6c2;
@@ -3279,7 +3279,7 @@ code[class*='language-'],
 .token.tag,
 code .cm-property,
 .cm-def {
-  color: var(--atom-red) !important;
+  color: var(--atom-cyan) !important;
 }
 .token.property,
 .token.boolean,
@@ -7084,7 +7084,7 @@ settings:
         id: credits
         title: Credits
         type: heading
-        description: Created with ❤︎ by @colineckert. This theme uses code from Minimal by @kepano. Support @kepano at buymeacoffee.com/kepano and @colineckert at buymeacoffee.com/colineckert
+        description: Created with ❤︎ by @the9realms. This theme uses code from Things by @colineckert. Support @colineckert at buymeacoffee.com/colineckert and @the9realms at buymeacoffee.com/the9realms
         level: 2
         collapsed: true
 
