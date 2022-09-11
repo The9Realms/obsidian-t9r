@@ -105,7 +105,7 @@ For help and/or CSS snippets, thanks to:
   --h5-color: var(--red);
   --h6-color: var(--purple);
 
-  --strong-color: var(--pink);
+  --strong-color: var(--base);
   --em-color: var(--pink);
 
   --font-normal: 16px;
