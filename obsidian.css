@@ -1596,6 +1596,9 @@ body.full-borders .side-dock-ribbon {
 .cm-s-obsidian span.cm-formatting-link {
   color: var(--text-faint) !important;
 }
+.cm-underline {
+  color: var(--base);
+}
 
 /* Mermaid */
 .mermaid svg {
