@@ -64,7 +64,7 @@ For help and/or CSS snippets, thanks to:
   --yellow: #e5b567;
   --orange: #e87d3e;
   --red: #e83e3e;
-  --purple: #9e86c8;
+  --purple: #6366f1;
   --base: #00D6CB;
 
   --light-yellow-highlighter: #fff3a3a6;
@@ -99,11 +99,11 @@ For help and/or CSS snippets, thanks to:
   /* Colors, sizes, weights, padding */
 
   --h1-color: var(--base);
-  --h2-color: var(--blue);
+  --h2-color: var(--purple);
   --h3-color: var(--orange);
   --h4-color: var(--yellow);
-  --h5-color: var(--red);
-  --h6-color: var(--purple);
+  --h5-color: var(--pink);
+  --h6-color: var(--green);
 
   --strong-color: var(--text-muted);
   --em-color: var(--pink);
